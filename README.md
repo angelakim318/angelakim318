@@ -1,22 +1,10 @@
 ## Hi there ☀️
 
-<!--
-**angelakim318/angelakim318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Contact Me
 
-Here are some ideas to get you started:
+- Email: [angelakim318@gmail.com](mailto:angelakim318@gmail.com)
+- LinkedIn: [Angela Kim](https://www.linkedin.com/in/angelakim318/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🔧 Technologies & Tools
 
-### 📬 I can be reached at:
-- 📧 [Email](mailto:angelakim318@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/angelakim318/)
-
-### Projects I've Worked On:
--->
+- Java | Spring Boot | MySQL | JavaScript | React | Docker | Docker Compose | AWS EC2 | Python | Flask | PostgreSQL | SQL
